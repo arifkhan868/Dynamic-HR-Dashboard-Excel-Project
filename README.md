@@ -36,7 +36,7 @@ The dataset consists of **21 fields**, including:
 ---
 
 ## 📷 Dashboard Preview
-- <a href="https://github.com/arifkhan868/Dynamic-HR-Dashboard-Excel-Project/blob/main/Dashboard.PNG">Dataset</a>
+- <a href="https://github.com/arifkhan868/Dynamic-HR-Dashboard-Excel-Project/blob/main/Dashboard.PNG">Dashboard View</a>
 ---
 
 ## 📈 Insights Generated
