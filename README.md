@@ -64,5 +64,5 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ## 🤝 Connect with Me
 👤 **Ariful Islam**  
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BjppDJjJjSaiY%2FvdcZPGb9g%3D%3D))  
+🔗 [https://www.linkedin.com/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BjppDJjJjSaiY%2FvdcZPGb9g%3D%3D)  
 📧 Email: arifkhan.nsd14@gmail.com 
