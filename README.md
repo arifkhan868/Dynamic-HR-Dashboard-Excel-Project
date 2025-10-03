@@ -36,8 +36,7 @@ The dataset consists of **21 fields**, including:
 ---
 
 ## 📷 Dashboard Preview
-![HR Dashboard](assets/dashboard-preview.png)  
-
+- <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/commit/8c0fe84aae4365b1c04eaef46c7fd20814e25a22">Dataset</a>
 ---
 
 ## 📈 Insights Generated
